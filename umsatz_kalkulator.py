@@ -44,7 +44,7 @@ def calculate_metrics(fte: float, weekly_hours: List[float], daily_rates: List[f
         "Differenz FTE (Verfügbar – Benötigt)": fte_diff,
         "Verfügbare Wochenarbeitsstunden": available_weekly_hours,
         "Wochen‑Umsatz": weekly_revenue,
-        "Monats‑Umsatz (Schätzung)": monthly_revenue_estimate,
+        #"Monats‑Umsatz (Schätzung)": monthly_revenue_estimate,
         "Monatsumsätze je Klient": monthly_client_revenues,
         "Gesamt‑Monatsumsatz": total_monthly_revenue,
     }
