@@ -102,7 +102,7 @@ def main():
                 st.write(f"**{label}:** {value:,.2f} {suffix}")
 
         st.markdown("---")
-        st.caption("© 2025 Dein Unternehmen – Alle Angaben ohne Gewähr")
+        st.caption("© 2025 Chris Schweiger – Alle Angaben ohne Gewähr")
 
 
 if __name__ == "__main__":
